@@ -28,6 +28,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Railway Library, 1909
 
   A Collection of Noteworthy Chapters, Addresses, and Papers
